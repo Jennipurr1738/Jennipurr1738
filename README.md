@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-# s://www.linkedin.com/in/jennifervalladaresg/
 <!--
 **Jennipurr1738/Jennipurr1738** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
