@@ -1,13 +1,16 @@
 ## Hi there 👋
 
 <!--
-My name is Jenny 
+🧠 UC LEADS Researcher | Mechanical Engineering major | Full-time chaos manager
+🌱 Learning how to make things fly without breaking things
+💻 Currently working on:
+* “Integrated UAS Health Prognostic and Emergency Response System” (basically teaching drones how to call for help before they crash into trees 🌳💥)
+* A rocket for my Level 1 certification 🚀
+* Keeping my SolidWorks from exploding 💥
+ 🔮 Fun Fact: 
+🎨 I love painting and drawing
 
-- 🔭 I’m currently learning how to program drones under UC LEADS 
-- 👯 I’m looking to collaborate on rockerty
-- 😄 Pronouns: she/her
-- ⚡ Reach out:  https://www.linkedin.com/in/jennifervalladaresg/
-
-Cheers, 
+ 🔗 Let's conneet: [link text](https://example.com)
+Cheers,
 Jenny 
 --> 
